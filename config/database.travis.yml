@@ -1,0 +1,5 @@
+# config/database.travis.yml
+test:
+  adapter: postgresql
+  database: auth0app_test
+  
